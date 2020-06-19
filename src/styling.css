@@ -1,0 +1,8 @@
+
+.center {
+    margin: auto;
+    border: 3px solid green;
+    padding: 10px;
+    max-width: 100%;
+    height: auto;
+  }
